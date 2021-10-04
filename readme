@@ -1,0 +1,2 @@
+The application is currently hosted on Google Cloud using a tiny instance of Ubuntu Server. Twilio's API is being used to process the calls. 
+To test the program, dial (702)-605-7290, the application can receive calls, receive/proces DTMF input and SIP refer calls out using option 1. 
