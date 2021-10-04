@@ -1,3 +1,4 @@
 The application is currently hosted on Google Cloud using a tiny instance of Ubuntu Server. Twilio's API is being used to process the calls. 
 
 To test the program, dial (702)-605-7290, the application can receive calls, receive/process DTMF input, transfer calls and send text messages. 
+Option 1 will place a call to my cell phone. Option 2 will send a thank you text message.
